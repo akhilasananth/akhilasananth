@@ -1,21 +1,19 @@
-### Hi there 👋
+### Hi there 👋 My name is Akhila
 
 <!--
 **akhilasananth/akhilasananth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilasananth&show_icons=true&theme=tokyonight)
+<!-- - 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - ⚡ Fun fact: I -->
+- :briefcase: I am currently developing web applications at RBC Capital Markets
+- 👯 I’m looking to collaborate on any web application 
+- 💬 Ask me about React and data visualization tools
+- 📫 How to reach me: akhilasananth@gmail.com
+- 😄 Pronouns: She/Her
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilasananth&theme=tokyonight)
 
 
