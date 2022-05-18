@@ -5,10 +5,10 @@
 -->
 
 <!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - ⚡ Fun fact: I -->
 - :briefcase: I am currently developing web applications at RBC Capital Markets
+- 🌱 I’m currently learning Elixir and Phoenix
 - 👯 I’m looking to collaborate on any web application 
 - 💬 Ask me about React and data visualization tools
 - 📫 How to reach me: akhilasananth@gmail.com
