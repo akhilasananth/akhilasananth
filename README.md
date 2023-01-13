@@ -2,17 +2,8 @@
 **akhilasananth/akhilasananth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### 👋 Hi! I'm Akhila, a front end developer eager to be a full stack web developer
-My goal right now is to LEARN TO BUILD AND DEPLOY an entire web application on my own.
-- 🐲 Some skills I picked up recently:
-  - 📱 Building a simple web application with Elixir and Phoenix
-  - 📄 Working with Alpaca for creating forms 
-  - 📊 Visualizing data using plotly and aggrid
-- 🐟 I started coding in 2018 as a Software Engineering major at RBC, focused on visualizing data and data governance
-  - 🌐 Loved building things for the Web
-  - 📅 Fell in love with Scrum
-- 🔭 I’m currently working on:
-  - 
+### 👋 Hi! 
+
 - 📫 How to reach me: akhilasananth@gmail.com
 - 😄 Pronouns: She/Her
 
