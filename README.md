@@ -1,12 +1,3 @@
-<!--
-**akhilasananth/akhilasananth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-### 👋 Hi! 
-
-- 📫 How to reach me: akhilasananth@gmail.com
-- 😄 Pronouns: She/Her
-
 ### Tech & Tools
 
 [<img alt="React" title="React" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" />]()&nbsp;
