@@ -15,7 +15,7 @@ Here's my LinkedIn and email if you want to reach me :)
 ```python
  akhila = {
     "pronouns": ["she", "her"],
-    "code": {
+    "languages": {
         "Python": "strong", 
         "Javascript": "intermediate", 
         "HTML": "intermediate", 
