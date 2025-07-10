@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Feel free to browse/clone my projects and message me about it.
 
-Currently nomadic and slowly drifting back into tech. Lately obsessed with creative coding—building weird, interactive things that spark joy. To me, anything that defies the status quo counts as creative. I’m chasing whatever draws me in, whether or not it makes sense. It’s a shift—my brain’s wired to solve problems or make things useful. But I’m learning that beauty doesn’t need a purpose and I just want to create. Taking a break from the 9–5, staying present, and letting curiosity lead. 
+Currently nomadic and slowly drifting back into tech. 
 
 Here's my LinkedIn and email if you want to reach me :)
 - [![Linkedin: akhilasananth](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilasananth/)](https://www.linkedin.com/in/akhilasananth/)
